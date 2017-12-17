@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="NewFile">Создать новый файл</string>
+    <string name="SaveFile">Сохранить файл</string>
+</resources>
